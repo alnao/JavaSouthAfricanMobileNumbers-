@@ -1,0 +1,6 @@
+it/alnao/southAfricanMobileNumbers/entities/SouthAfricanMobileNumbersEntity.class
+it/alnao/southAfricanMobileNumbers/service/SouthAfricanMobileNumbersIService.class
+it/alnao/southAfricanMobileNumbers/controller/SouthAfricanMobileNumbersController.class
+it/alnao/southAfricanMobileNumbers/SouthAfricanMobileNumbersApplication.class
+it/alnao/southAfricanMobileNumbers/repository/SouthAfricanMobileNumbersRepository.class
+it/alnao/southAfricanMobileNumbers/service/SouthAfricanMobileNumbersService.class
